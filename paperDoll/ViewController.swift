@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController {
    
   
-    @IBOutlet var containerViewCollection: [UIView]!
+    @IBOutlet var scrollViewCollection: [UIView]!
     
     @IBOutlet var showBody: UIImageView!
     @IBOutlet var showHead: UIImageView!
@@ -21,18 +21,18 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        containerViewCollection[0].isHidden = false
-        containerViewCollection[1].isHidden = true
-        containerViewCollection[2].isHidden = true
-        containerViewCollection[3].isHidden = true
+        scrollViewCollection[0].isHidden = false
+        scrollViewCollection[1].isHidden = true
+        scrollViewCollection[2].isHidden = true
+        scrollViewCollection[3].isHidden = true
 
     }
 
     @IBAction func changeType(_ sender: UISegmentedControl) {
-        containerViewCollection.forEach {
+        scrollViewCollection.forEach {
                $0.isHidden = true
             }
-        containerViewCollection[sender.selectedSegmentIndex].isHidden = false
+        scrollViewCollection[sender.selectedSegmentIndex].isHidden = false
     }
     
     @IBAction func bodyBtnFunc(_ sender: UIButton) {

@@ -1734,10 +1734,10 @@
                         <outlet property="showBody" destination="Igd-oT-aAm" id="oty-7m-6XU"/>
                         <outlet property="showFace" destination="Vd4-eg-nBu" id="Xob-oI-ylk"/>
                         <outlet property="showHead" destination="nGu-kq-clk" id="w8p-H9-aNh"/>
-                        <outletCollection property="containerViewCollection" destination="sM4-1t-cO8" collectionClass="NSMutableArray" id="Gay-7R-JeI"/>
-                        <outletCollection property="containerViewCollection" destination="7zs-xz-4fQ" collectionClass="NSMutableArray" id="EBg-gq-pfk"/>
-                        <outletCollection property="containerViewCollection" destination="P7H-dE-Me6" collectionClass="NSMutableArray" id="57r-Xm-L6k"/>
-                        <outletCollection property="containerViewCollection" destination="ix7-mj-0Cy" collectionClass="NSMutableArray" id="sRx-Ag-ffX"/>
+                        <outletCollection property="scrollViewCollection" destination="sM4-1t-cO8" collectionClass="NSMutableArray" id="Gay-7R-JeI"/>
+                        <outletCollection property="scrollViewCollection" destination="7zs-xz-4fQ" collectionClass="NSMutableArray" id="EBg-gq-pfk"/>
+                        <outletCollection property="scrollViewCollection" destination="P7H-dE-Me6" collectionClass="NSMutableArray" id="57r-Xm-L6k"/>
+                        <outletCollection property="scrollViewCollection" destination="ix7-mj-0Cy" collectionClass="NSMutableArray" id="sRx-Ag-ffX"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
