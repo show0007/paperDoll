@@ -75,7 +75,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Syp-Fk-SP1"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Syp-Fk-SP1"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zlo-td-y1w">
@@ -94,7 +94,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Bjg-l9-chd"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Bjg-l9-chd"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wH2-Xb-Ilw">
@@ -113,7 +113,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="rGa-Ka-Zjd"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="rGa-Ka-Zjd"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Jqy-Rz-DEC">
@@ -132,7 +132,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="uux-Dt-bzu"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="uux-Dt-bzu"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bVq-9l-CtP">
@@ -151,7 +151,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="89x-H3-Ags"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="89x-H3-Ags"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kUS-rJ-FRX">
@@ -170,7 +170,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="J0n-RR-Bpv"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="J0n-RR-Bpv"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3bJ-kS-CBW">
@@ -189,7 +189,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nPE-HD-Llm"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nPE-HD-Llm"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9ph-22-M3t">
@@ -208,7 +208,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="91h-2x-hnG"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="91h-2x-hnG"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="y1z-AN-MrR">
@@ -227,7 +227,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="MGB-kH-4A8"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="MGB-kH-4A8"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0mg-9V-tJJ">
@@ -246,7 +246,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5ai-gq-05g"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5ai-gq-05g"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dit-aX-hfh">
@@ -265,7 +265,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="IcV-vq-3JB"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="IcV-vq-3JB"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CoM-6J-g0a">
@@ -284,7 +284,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="65v-FI-eNO"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="65v-FI-eNO"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0Qh-ZY-Zzs">
@@ -303,7 +303,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Hcf-Pc-T9o"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Hcf-Pc-T9o"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="a8G-NI-XgY">
@@ -322,7 +322,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="37g-k9-6x6"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="37g-k9-6x6"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Lnl-ef-eVu">
@@ -341,7 +341,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="TjZ-4j-QYM"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="TjZ-4j-QYM"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5rn-uP-1LF">
@@ -360,7 +360,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="LB2-18-sad"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="LB2-18-sad"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jxA-su-vbi">
@@ -379,7 +379,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="zLf-9Y-eeV"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="zLf-9Y-eeV"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2Sz-jD-b3Y">
@@ -398,7 +398,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6gf-s6-2si"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6gf-s6-2si"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WVN-ac-HHw">
@@ -417,7 +417,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="WyD-RU-hUl"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="WyD-RU-hUl"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="H80-bh-14e">
@@ -436,7 +436,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="kqz-yu-heB"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="kqz-yu-heB"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NZb-X2-kFd">
@@ -455,7 +455,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="r3p-zX-Iwn"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="r3p-zX-Iwn"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gdh-r1-Gxd">
@@ -474,7 +474,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Br1-x1-JHv"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Br1-x1-JHv"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Y7e-Bh-lVr">
@@ -493,7 +493,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CnN-RT-xvT"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CnN-RT-xvT"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jeW-LL-0ws">
@@ -512,7 +512,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="bodyBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pXh-O1-tin"/>
+                                                    <action selector="changeBody:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pXh-O1-tin"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -552,7 +552,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8uh-a2-0Jz"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8uh-a2-0Jz"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aLC-lr-Ry2">
@@ -571,7 +571,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ipu-6m-WAf"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ipu-6m-WAf"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xqI-44-rKn">
@@ -590,7 +590,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gDQ-AS-iGp"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gDQ-AS-iGp"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rBT-tm-bM6">
@@ -609,7 +609,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="A5i-dF-BY6"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="A5i-dF-BY6"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gkD-jg-l9k">
@@ -628,7 +628,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="yU3-CG-Knj"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="yU3-CG-Knj"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Y6q-Ng-HFq">
@@ -647,7 +647,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3nK-dJ-5xW"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3nK-dJ-5xW"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yXU-VP-V5S">
@@ -666,7 +666,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="orU-37-GJQ"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="orU-37-GJQ"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6fg-NV-KwU">
@@ -685,7 +685,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Oh1-OF-fko"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Oh1-OF-fko"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3Ja-Hm-G8W">
@@ -704,7 +704,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0Vi-K2-vSN"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0Vi-K2-vSN"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3ye-lk-l2Z">
@@ -723,7 +723,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Buo-8g-lYf"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Buo-8g-lYf"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Eno-h1-XMI">
@@ -742,7 +742,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="HE9-Dt-jY2"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="HE9-Dt-jY2"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iIU-ol-ets">
@@ -761,7 +761,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Uzy-Fn-O0T"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Uzy-Fn-O0T"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="04M-W9-YOv">
@@ -780,7 +780,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="LHE-tk-aBR"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="LHE-tk-aBR"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PsP-hS-sup">
@@ -799,7 +799,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="O1K-v9-FyS"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="O1K-v9-FyS"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ik8-gt-CDq">
@@ -818,7 +818,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Y0M-Ft-hNl"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Y0M-Ft-hNl"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qjU-m5-ifD">
@@ -837,7 +837,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hTP-UR-wSq"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hTP-UR-wSq"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IYU-Im-oIO">
@@ -856,7 +856,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gP2-kd-7d6"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gP2-kd-7d6"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Szn-vW-X38">
@@ -875,7 +875,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6dz-yb-J1T"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6dz-yb-J1T"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1PS-Gx-HSE">
@@ -894,7 +894,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="yVJ-V6-ZXH"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="yVJ-V6-ZXH"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sJ1-e9-p6F">
@@ -913,7 +913,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nmb-jJ-O8J"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nmb-jJ-O8J"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oM9-bQ-qIy">
@@ -932,7 +932,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="RDm-Ft-dFV"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="RDm-Ft-dFV"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jbS-Bf-d5A">
@@ -951,7 +951,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="eNz-jP-DqV"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="eNz-jP-DqV"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0Jt-em-2rl">
@@ -970,7 +970,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3FJ-RD-dkV"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3FJ-RD-dkV"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sC8-mo-eCH">
@@ -989,7 +989,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="headBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="I9x-aL-yaE"/>
+                                                    <action selector="changeHead:" destination="BYZ-38-t0r" eventType="touchUpInside" id="I9x-aL-yaE"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -1029,7 +1029,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="eIt-PW-c9R"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="eIt-PW-c9R"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="beJ-0C-gnW">
@@ -1048,7 +1048,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="AlZ-gQ-2Rr"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="AlZ-gQ-2Rr"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nyv-jj-jkP">
@@ -1067,7 +1067,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cRx-Ik-SOD"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cRx-Ik-SOD"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aVR-Mw-ANh">
@@ -1086,7 +1086,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dMC-qK-dLh"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dMC-qK-dLh"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="g5t-I0-IdO">
@@ -1105,7 +1105,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="lzW-3n-ZUV"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="lzW-3n-ZUV"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AnA-UC-041">
@@ -1124,7 +1124,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="l0d-hv-3Ey"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="l0d-hv-3Ey"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hf6-MP-bve">
@@ -1143,7 +1143,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0KB-pA-ByF"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0KB-pA-ByF"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HcU-t2-wQp">
@@ -1162,7 +1162,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7Od-ee-UQh"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7Od-ee-UQh"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HO4-Yx-prE">
@@ -1181,7 +1181,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="MzA-85-azq"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="MzA-85-azq"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EuB-yp-INi">
@@ -1200,7 +1200,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hSL-ry-S3R"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hSL-ry-S3R"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IgV-Gx-JFA">
@@ -1219,7 +1219,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Y0b-n3-eyk"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Y0b-n3-eyk"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jNa-i3-0qg">
@@ -1238,7 +1238,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="oh8-my-cCo"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="oh8-my-cCo"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lcc-Hp-e2s">
@@ -1257,7 +1257,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2Rp-BE-U8G"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2Rp-BE-U8G"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MAE-18-yXX">
@@ -1276,7 +1276,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="xIV-D4-Wox"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="xIV-D4-Wox"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3ZB-Ae-e9Q">
@@ -1295,7 +1295,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pQ4-00-IkG"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pQ4-00-IkG"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dAU-ZA-waU">
@@ -1314,7 +1314,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="FF8-xM-qkN"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="FF8-xM-qkN"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PvB-vC-6eE">
@@ -1333,7 +1333,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="x4q-Er-9LT"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="x4q-Er-9LT"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8wV-T4-nx2">
@@ -1352,7 +1352,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="XGd-Dk-REh"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="XGd-Dk-REh"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Cxu-X7-Sr9">
@@ -1371,7 +1371,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5rt-qn-eoP"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5rt-qn-eoP"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yNx-GA-aqU">
@@ -1390,7 +1390,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pLC-Id-oIX"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pLC-Id-oIX"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6UV-cF-tSL">
@@ -1409,7 +1409,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="lbo-Mn-Ojr"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="lbo-Mn-Ojr"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eAG-Qn-eVC">
@@ -1428,7 +1428,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dPQ-0Q-Kc9"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dPQ-0Q-Kc9"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2D8-Wj-5gJ">
@@ -1447,7 +1447,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8E3-Z7-xmj"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8E3-Z7-xmj"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GlU-2P-9Lv">
@@ -1466,7 +1466,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="faceBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="xoY-B2-WcC"/>
+                                                    <action selector="changeFace:" destination="BYZ-38-t0r" eventType="touchUpInside" id="xoY-B2-WcC"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -1506,7 +1506,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="accessBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="1mc-zg-Vvc"/>
+                                                    <action selector="changeAccessories:" destination="BYZ-38-t0r" eventType="touchUpInside" id="1mc-zg-Vvc"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="d0p-ED-Gj2">
@@ -1525,7 +1525,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="accessBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="SRD-78-hZ6"/>
+                                                    <action selector="changeAccessories:" destination="BYZ-38-t0r" eventType="touchUpInside" id="SRD-78-hZ6"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="32o-y8-EiZ">
@@ -1544,7 +1544,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="accessBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="rbl-Ma-SOH"/>
+                                                    <action selector="changeAccessories:" destination="BYZ-38-t0r" eventType="touchUpInside" id="rbl-Ma-SOH"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="T6F-tE-5LQ">
@@ -1563,7 +1563,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="accessBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="UKj-v2-jPI"/>
+                                                    <action selector="changeAccessories:" destination="BYZ-38-t0r" eventType="touchUpInside" id="UKj-v2-jPI"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4ux-bj-Fcw">
@@ -1582,7 +1582,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="accessBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vKY-1S-Kbg"/>
+                                                    <action selector="changeAccessories:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vKY-1S-Kbg"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sU5-kV-GhC">
@@ -1601,7 +1601,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="accessBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8Z5-ey-MSd"/>
+                                                    <action selector="changeAccessories:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8Z5-ey-MSd"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VeH-Na-yNG">
@@ -1620,7 +1620,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="accessBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="poK-3O-6ue"/>
+                                                    <action selector="changeAccessories:" destination="BYZ-38-t0r" eventType="touchUpInside" id="poK-3O-6ue"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YSs-mg-g7y">
@@ -1639,7 +1639,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="accessBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="zq7-tq-zf5"/>
+                                                    <action selector="changeAccessories:" destination="BYZ-38-t0r" eventType="touchUpInside" id="zq7-tq-zf5"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BAO-pu-cGb">
@@ -1658,7 +1658,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="accessBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CaU-M7-Da6"/>
+                                                    <action selector="changeAccessories:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CaU-M7-Da6"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -1687,9 +1687,12 @@
                                     <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
                                         <integer key="value" value="25"/>
                                     </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.borderWidth">
+                                        <integer key="value" value="5"/>
+                                    </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                                 <connections>
-                                    <action selector="bgBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Feu-oy-Qch"/>
+                                    <action selector="changeBackground:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Feu-oy-Qch"/>
                                 </connections>
                             </button>
                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QVN-Yf-8m3">
@@ -1703,9 +1706,12 @@
                                     <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
                                         <integer key="value" value="25"/>
                                     </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.borderWidth">
+                                        <integer key="value" value="5"/>
+                                    </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                                 <connections>
-                                    <action selector="bgBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="LxW-4I-qs6"/>
+                                    <action selector="changeBackground:" destination="BYZ-38-t0r" eventType="touchUpInside" id="LxW-4I-qs6"/>
                                 </connections>
                             </button>
                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gNo-E7-EWm">
@@ -1719,9 +1725,12 @@
                                     <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
                                         <integer key="value" value="25"/>
                                     </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.borderWidth">
+                                        <integer key="value" value="5"/>
+                                    </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                                 <connections>
-                                    <action selector="bgBtnFunc:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Dgc-oQ-xwD"/>
+                                    <action selector="changeBackground:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Dgc-oQ-xwD"/>
                                 </connections>
                             </button>
                         </subviews>

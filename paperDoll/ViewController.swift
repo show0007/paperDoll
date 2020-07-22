@@ -35,26 +35,26 @@ class ViewController: UIViewController {
         scrollViewCollection[sender.selectedSegmentIndex].isHidden = false
     }
     
-    @IBAction func bodyBtnFunc(_ sender: UIButton) {
+    @IBAction func changeBody(_ sender: UIButton) {
         let image = sender.currentBackgroundImage
         showBody.image = image
     }
     
-    @IBAction func headBtnFunc(_ sender: UIButton) {
+    @IBAction func changeHead(_ sender: UIButton) {
         let image = sender.currentBackgroundImage
         showHead.image = image
     }
     
-    @IBAction func faceBtnFunc(_ sender: UIButton) {
+    @IBAction func changeFace(_ sender: UIButton) {
         let image = sender.currentBackgroundImage
         showFace.image = image
     }
-    @IBAction func accessBtnFunc(_ sender: UIButton) {
+    @IBAction func changeAccessories(_ sender: UIButton) {
         let image = sender.currentBackgroundImage
         showAccessories.image = image
     }
     
-    @IBAction func bgBtnFunc(_ sender: UIButton) {
+    @IBAction func changeBackground(_ sender: UIButton) {
         let image = sender.currentImage
         showBg.image = image
     }
